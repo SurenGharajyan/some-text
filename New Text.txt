@@ -1,0 +1,8 @@
+git status
+git branch
+git branch SurenBranch
+git checkout SurenBranch
+git add .
+git commit -m "Some Text"
+git push -u origin SurenBranch
+and it will take my commit to the custom branch
